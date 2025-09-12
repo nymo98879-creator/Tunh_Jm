@@ -24,7 +24,7 @@ export default function Bestseller() {
         {/* Card 1 */}
         <div className="my-3" data-aos="zoom-in" data-aos-delay="100">
           <img
-            src="public/card/card1.png"
+            src="/card/card1.png"
             alt=""
             className="w-full object-cover"
           />
@@ -45,7 +45,7 @@ export default function Bestseller() {
         {/* Card 2 */}
         <div className="my-3" data-aos="zoom-in" data-aos-delay="200">
           <img
-            src="public/card/card2.png"
+            src="/card/card2.png"
             alt=""
             className="w-full object-cover"
           />
@@ -66,7 +66,7 @@ export default function Bestseller() {
         {/* Card 3 */}
         <div className="my-3" data-aos="zoom-in" data-aos-delay="300">
           <img
-            src="public/card/card3.png"
+            src="/card/card3.png"
             alt=""
             className="w-full object-cover"
           />

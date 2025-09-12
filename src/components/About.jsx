@@ -105,7 +105,7 @@ export default function About() {
         {/*  */}
         <div className="w-full h-[100vh] bg-red-100 mt-20">
           <div className="w-full h-[35%]  px-6 py-16">
-            <img src="/public/about/image1.png" alt="" />
+            <img src="/about/image1.png" alt="" />
           </div>
           <div className="w-full h-[65%]  px-6 py-4">
             <div className="w-full h-[90%] rounded-2xl bg-white">

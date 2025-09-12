@@ -5,7 +5,7 @@ export default function Slidebar(){
                
                 <div className="w-full relative">
                     <div className="lg:h-[90vh] md:h-[50vh] h-[70vh] ">
-                        <img src="public/banner/slidebar.png" alt="" className="w-full h-full object-cover" />
+                        <img src="/banner/slidebar.png" alt="" className="w-full h-full object-cover" />
                     </div>
                     <div className="w-full h-full bg-black/60 absolute top-0">
                     </div>

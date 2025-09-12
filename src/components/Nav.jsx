@@ -13,7 +13,7 @@ export default function Nav() {
         {/* for computer */}
         <nav className="w-full h-[70px] xl:flex hidden ">
           <div className="w-[15%] h-full  px-10">
-            <img src="public/logo/logo.png" alt="" className="w-12" />
+            <img src="/logo/logo.png" alt="" className="w-12" />
           </div>
           <div className="w-[70%] h-full ">
             <ul className="flex justify-evenly items-center h-full text-xl font-medium ">
@@ -87,7 +87,7 @@ export default function Nav() {
         {/* ---------- for mobile --------------- */}
         <nav className="lg:hidden w-full h-[70px] shadow-md flex">
           <div className="w-[50%] px-4 py-2">
-            <img src="public/logo/logo.png" alt="" className="h-full" />
+            <img src="/logo/logo.png" alt="" className="h-full" />
           </div>
           <div className="w-[50%] flex justify-end px-5 items-center text-3xl">
             <div onClick={() => setMenu(!menu)}>

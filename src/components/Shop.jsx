@@ -15,7 +15,7 @@ export default function Shop() {
           {/* card1 */}
           <div className="mt-10" >
             <img
-              src="public/card/card1.png"
+              src="/card/card1.png"
               alt=""
               className="w-full object-cover"
             />
@@ -36,7 +36,7 @@ export default function Shop() {
           {/* card2 */}
           <div className="mt-10" >
             <img
-              src="public/card/card2.png"
+              src="/card/card2.png"
               alt=""
               className="w-full object-cover"
             />
@@ -57,7 +57,7 @@ export default function Shop() {
           {/* Card 3 */}
           <div className="mt-10" >
             <img
-              src="public/card/card3.png"
+              src="/card/card3.png"
               alt=""
               className="w-full object-cover"
             />
@@ -78,7 +78,7 @@ export default function Shop() {
           {/* Card 4 */}
           <div className="mt-10" >
             <img
-              src="public/card/card3.png"
+              src="/card/card3.png"
               alt=""
               className="w-full object-cover"
             />
@@ -99,7 +99,7 @@ export default function Shop() {
           {/* Card 3 */}
           <div className="mt-10" >
             <img
-              src="public/card/card3.png"
+              src="/card/card3.png"
               alt=""
               className="w-full object-cover"
             />
@@ -119,7 +119,7 @@ export default function Shop() {
           {/* Card 3 */}
           <div className="mt-10" >
             <img
-              src="public/card/card3.png"
+              src="/card/card3.png"
               alt=""
               className="w-full object-cover"
             />
@@ -139,7 +139,7 @@ export default function Shop() {
           {/* Card 3 */}
           <div className="mt-10" >
             <img
-              src="public/card/card3.png"
+              src="/card/card3.png"
               alt=""
               className="w-full object-cover"
             />
@@ -159,7 +159,7 @@ export default function Shop() {
           {/* Card 3 */}
           <div className="mt-10" >
             <img
-              src="public/card/card3.png"
+              src="/card/card3.png"
               alt=""
               className="w-full object-cover"
             />
@@ -179,7 +179,7 @@ export default function Shop() {
           {/* Card 3 */}
           <div className="mt-10" >
             <img
-              src="public/card/card3.png"
+              src="/card/card3.png"
               alt=""
               className="w-full object-cover"
             />

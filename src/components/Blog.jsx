@@ -7,7 +7,7 @@ export default function Blog() {
         <div className="w-full h-[400px] md:h-[500px] lg:h-[88vh] bg-gray-400 relative lg:flex lg:justify-end">
           {/* <div className='w-full h-full'> */}
           <img
-            src="/public/banner/blog1.png"
+            src="/banner/blog1.png"
             alt=""
             className="w-full h-full object-cover"
           />
@@ -29,7 +29,7 @@ export default function Blog() {
           <div className="w-full h-[500px] md:h-[700px]  lg:h-[500px] bg-white shadow-lg   rounded-xl  md:rounded-3xl overflow-hidden lg:mt-5">
             <div className="w-full h-[50%]  md:h-[70%] lg:h-[50%] overflow-hidden">
               <img
-                src="/public/banner/blog2.png"
+                src="/banner/blog2.png"
                 alt=""
                 className="w-full h-full object-cover hover:scale-110 transition-transform duration-500 "
               />
@@ -53,7 +53,7 @@ export default function Blog() {
           <div className="w-full h-[500px] md:h-[700px] lg:h-[500px] bg-white shadow-lg   rounded-xl md:rounded-3xl overflow-hidden mt-5">
             <div className="w-full h-[50%] md:h-[70%] lg:h-[50%]  overflow-hidden">
               <img
-                src="/public/banner/blog3.png"
+                src="/banner/blog3.png"
                 alt=""
                 className="w-full h-full object-cover hover:scale-110 transition-transform duration-500 "
               />
@@ -77,7 +77,7 @@ export default function Blog() {
           <div className="w-full h-[500px] md:h-[700px] lg:h-[500px] bg-white shadow-lg   rounded-xl md:rounded-3xl overflow-hidden mt-5">
             <div className="w-full h-[50%] md:h-[70%] lg:h-[50%]  overflow-hidden">
               <img
-                src="/public/banner/blog4.png"
+                src="/banner/blog4.png"
                 alt=""
                 className="w-full h-full object-cover hover:scale-110 transition-transform duration-500 "
               />
@@ -100,7 +100,7 @@ export default function Blog() {
           <div className="w-full h-[500px] md:h-[700px] lg:h-[500px] bg-white shadow-lg   rounded-xl md:rounded-3xl overflow-hidden mt-5">
             <div className="w-full h-[50%] md:h-[70%] lg:h-[50%]  overflow-hidden">
               <img
-                src="/public/banner/blog5.png"
+                src="/banner/blog5.png"
                 alt=""
                 className="w-full h-full object-cover hover:scale-110 transition-transform duration-500 "
               />
@@ -124,7 +124,7 @@ export default function Blog() {
           <div className="w-full h-[500px] md:h-[700px] lg:h-[500px] bg-white shadow-lg   rounded-xl md:rounded-3xl overflow-hidden mt-5">
             <div className="w-full h-[50%]  md:h-[70%] lg:h-[50%] overflow-hidden">
               <img
-                src="/public/banner/blog6.png"
+                src="/banner/blog6.png"
                 alt=""
                 className="w-full h-full object-cover hover:scale-110 transition-transform duration-500 "
               />
@@ -147,7 +147,7 @@ export default function Blog() {
           <div className="w-full h-[500px] md:h-[700px] lg:h-[500px] bg-white shadow-lg   rounded-xl md:rounded-3xl overflow-hidden mt-5">
             <div className="w-full h-[50%] md:h-[70%] lg:h-[50%]  overflow-hidden">
               <img
-                src="/public/banner/blog7.png"
+                src="/banner/blog7.png"
                 alt=""
                 className="w-full h-full object-cover hover:scale-110 transition-transform duration-500 "
               />

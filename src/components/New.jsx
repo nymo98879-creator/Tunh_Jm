@@ -4,7 +4,7 @@ export default function New(){
             <div className="w-full mt-10 grid grid-cols-2 md:grid-cols-3 gap-2">
                 <div className="my-3 ">
                     <div>   
-                        <img src="public/card/card1.png" alt="" className="w-full object-cover" />
+                        <img src="/card/card1.png" alt="" className="w-full object-cover" />
                     </div>
                     <div className="pt-3 ">
                         <h1 className="text-[18px] font-medium">Flowline Dresses</h1>
@@ -19,7 +19,7 @@ export default function New(){
                 </div>
                 <div className="my-3 ">
                     <div>
-                        <img src="public/card/card2.png" alt="" className="w-full object-cover" />
+                        <img src="/card/card2.png" alt="" className="w-full object-cover" />
                     </div>
                     <div className="pt-3 ">
                         <h1 className="text-[18px] font-medium">Flowline Dresses</h1>
@@ -34,7 +34,7 @@ export default function New(){
                 </div>
                  <div className="my-3">
                     <div>
-                        <img src="public/card/card3.png" alt="" className="w-full object-cover" />
+                        <img src="/card/card3.png" alt="" className="w-full object-cover" />
                     </div>
                     <div className="pt-3 ">
                         <h1 className="text-[18px] font-medium">Flowline Dresses</h1>

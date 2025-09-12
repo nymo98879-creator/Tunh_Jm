@@ -11,7 +11,7 @@ export default function Footer() {
         {/* 1 */}
         <div className="w-full  p-10  md:px-6">
           <div className="flex gap-2 ">
-            <img src="public/logo/logo.png" alt="" className="w-12" />
+            <img src="/logo/logo.png" alt="" className="w-12" />
             <h1 className="py-4 text-2xl font-bold text-white">VELORA</h1>
           </div>
           <p className="py-4 font-bold text-white ">

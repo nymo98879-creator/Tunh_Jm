@@ -15,7 +15,7 @@ export default function Categories() {
           <div className="h-[270px] md:h-[300px] lg:h-[450px]  relative ">
             <div className="w-full h-[85%] bg-black  border-2  border-black rounded-[25px] overflow-hidden">
               <img
-                src="/public/card/image.png"
+                src="/card/image.png"
                 alt=""
                 className="h-full object-cover w-full"
               />
@@ -35,7 +35,7 @@ export default function Categories() {
           <div className="h-[270px] md:h-[300px] lg:h-[450px]  relative ">
             <div className="w-full h-[85%] bg-black  border-2  border-black rounded-[25px] overflow-hidden">
               <img
-                src="public/card/image2.png"
+                src="/card/image2.png"
                 alt=""
                 className="h-full object-cover w-full"
               />
@@ -55,7 +55,7 @@ export default function Categories() {
           <div className="h-[270px] md:h-[300px] lg:h-[450px]  relative ">
             <div className="w-full h-[85%] bg-black  border-2  border-black rounded-[25px] overflow-hidden">
               <img
-                src="public/card/image3.png"
+                src="/card/image3.png"
                 alt=""
                 className="h-full object-cover w-full"
               />
@@ -75,7 +75,7 @@ export default function Categories() {
           <div className="h-[270px] md:h-[300px] lg:h-[450px]  relative ">
             <div className="w-full h-[85%] bg-black  border-2  border-black rounded-[25px] overflow-hidden">
               <img
-                src="public/card/image4.png"
+                src="/card/image4.png"
                 alt=""
                 className="h-full object-cover w-full"
               />

@@ -33,28 +33,28 @@ export default function Subscript() {
         <div className="w-full grid grid-cols-2 md:grid md:grid-cols-4 lg:grid lg:grid-cols-4 gap-5 px-5 lg:px-36 py-10">
           <div className="h-[200px] lg:h-[350px] rounded-2xl overflow-hidden">
             <img
-              src="public/card/subscribe1.png"
+              src="/card/subscribe1.png"
               alt=""
               className="w-full h-full "
             />
           </div>
           <div className="h-[200px] lg:h-[350px] rounded-2xl overflow-hidden">
             <img
-              src="public/card/subscribe2.png"
+              src="/card/subscribe2.png"
               alt=""
               className="w-full h-full"
             />
           </div>
           <div className="h-[200px] lg:h-[350px] rounded-2xl overflow-hidden ">
             <img
-              src="public/card/subscribe3.png"
+              src="/card/subscribe3.png"
               alt=""
               className="w-full h-full"
             />
           </div>
           <div className="h-[200px] lg:h-[350px] rounded-2xl overflow-hidden">
             <img
-              src="public/card/subscribe4.png"
+              src="/card/subscribe4.png"
               alt=""
               className="w-full h-full"
             />
